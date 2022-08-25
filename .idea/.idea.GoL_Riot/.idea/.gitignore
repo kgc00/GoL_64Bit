@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.GoL_Riot.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\kirby\Documents\Game Dev\Job Application Demos\GoL_Riot\.idea\.idea.GoL_Riot\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

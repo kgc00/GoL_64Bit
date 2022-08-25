@@ -1,0 +1,6 @@
+C:\Users\kirby\Documents\Game Dev\Job Application Demos\GoL_Riot\GoL\bin\Release\GoL.dll
+C:\Users\kirby\Documents\Game Dev\Job Application Demos\GoL_Riot\GoL\bin\Release\GoL.pdb
+C:\Users\kirby\Documents\Game Dev\Job Application Demos\GoL_Riot\GoL\obj\Release\GoL.csproj.AssemblyReference.cache
+C:\Users\kirby\Documents\Game Dev\Job Application Demos\GoL_Riot\GoL\obj\Release\GoL.csproj.CoreCompileInputs.cache
+C:\Users\kirby\Documents\Game Dev\Job Application Demos\GoL_Riot\GoL\obj\Release\GoL.dll
+C:\Users\kirby\Documents\Game Dev\Job Application Demos\GoL_Riot\GoL\obj\Release\GoL.pdb
